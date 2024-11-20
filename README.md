@@ -13,5 +13,5 @@ Project utilizes the NBA API and Tkinter to collect live scores and display them
 
 <p align="center">
 Live Game Information: <br/>
-<img src="https://i.imgur.com/JVXfyjV.png" height="80%" width="80%" alt="Project Screenshot"/>
+<img src="https://i.imgur.com/r7ujUxA.png" height="80%" width="80%" alt="Project Screenshot"/>
 <br />
