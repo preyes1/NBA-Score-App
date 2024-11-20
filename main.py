@@ -12,7 +12,7 @@ from PIL import Image, ImageTk
 window = Tk() #instantiate an instance of a window
 window.geometry("600x420")
 window.title("NBA")
-window.resizable(False, False)
+window.resizable(False, True)
 
 icon = PhotoImage(file='nbalogo.png')
 window.iconphoto(True, icon)
